@@ -35,3 +35,17 @@
 
 
 
+
+
+
+1.<br/>
+![exp1](https://user-images.githubusercontent.com/113232410/193778910-4762e9ac-3dec-4b99-92e6-4176c607e4d8.png)<br/>
+2.<br/>
+![exp1](https://user-images.githubusercontent.com/113232410/193779633-84fe4d88-c247-41a5-b948-bacf567e10de.png)<br/>
+3.<br/>
+![exp1](https://user-images.githubusercontent.com/113232410/193779679-69cfd0f3-ce16-4090-88a8-8f370c0b8ad0.png)<br/>
+4.<br/>
+![exp1](https://user-images.githubusercontent.com/113232410/193779741-73a6a2b1-a8cc-402a-8585-a88fc0e08b83.png)<br/>
+5.<br/>
+![exp1](https://user-images.githubusercontent.com/113232410/193780242-5349ac74-9a2d-46af-9476-05dd913d41fa.png)<br/>
+  
