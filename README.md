@@ -38,6 +38,7 @@
 
 
 EXPERIMENT 1:
+
 1.<br/>
 ![exp1](https://user-images.githubusercontent.com/113232410/193778910-4762e9ac-3dec-4b99-92e6-4176c607e4d8.png)<br/>
 2.<br/>
@@ -49,3 +50,14 @@ EXPERIMENT 1:
 5.<br/>
 ![exp1](https://user-images.githubusercontent.com/113232410/193780242-5349ac74-9a2d-46af-9476-05dd913d41fa.png)<br/>
   
+  
+  EXPERIMENT 2:
+  1.<br/> 
+![exp2](https://user-images.githubusercontent.com/113232410/193885570-cafa16bc-57eb-41a9-b191-c149a2d247dc.png)<br/>
+2.<br/>
+![exp2](https://user-images.githubusercontent.com/113232410/193885627-6cbd131c-edda-4a96-aaf4-b48800da41b4.png)<br/>
+3.<br/>
+![exp2](https://user-images.githubusercontent.com/113232410/193885772-54830d83-8c97-4113-b0ea-991f571341a0.png)<br/>
+4.<br/>
+![exp2](https://user-images.githubusercontent.com/113232410/193885861-82a0e09b-d59d-43e9-9a7f-48cef531f36c.png)<br/>
+
